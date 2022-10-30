@@ -1,0 +1,151 @@
+Members:
+Marcus 
+Sarah
+Rohan
+
+
+Monsters:
+Gelatenous cube Q: 1, 3, 5, 6, 9, 
+Shia LaBeouf
+Giant Space Hamsters
+Dark Vader
+Mimic
+Gibbering Mouther
+False hydra
+
+
+
+Q1: How much you movin?
+A: Dare you suggest such a thing: Gelatenous cube
+B: Gotta get to the fridge somehow: Mimic
+C: Only to escape pretty girls: GM
+D: Horse: Shia LaBeouf
+
+Q2: Are you sick?
+A: No, I'm not sick: False hydra
+A: Yes, I am sick: Dark Vader
+
+Q3: Thoughts on humans?
+A: Humans are friends, not food: GSH
+B: Drama lamas. Too much effort: Gelatenous cube
+C: Loud, noisy, smelly: GM
+D: Only good human is a dead human: Shia LaBeouf
+
+Q4: Do you take care of your appearance?
+A: I'm already perfect. : Shia LaBeouf
+A: Can't you tell? : Mimic
+A: I'm too edgy to do that. : Dark Vader
+A: As long as I brush my teeth I'm fine: GM
+
+A: The smell of sky?
+
+Q5)What time do you wake up:
+A: 6:00: GSH
+B: 7:00: GM
+C: 8:00: Mimic
+D: 9:00: Cube 
+
+Q6
+How often do you see grass:
+A: I ain't smoked that for ages, man! : Dark Vader
+A: Only when my mom throws me out :/: Gelatenous cube
+A: Every day? What is this question? : GM
+A: Im bascially a tree : Mimic
+
+Q7:
+Are you employed in education:
+A: No im homeless : GSH 
+A: No, I feel homeless: False Hydra 
+A: Yes, But im in a useless degree that's not comp sci: Mimic   
+A: Yes, but my students aren't happy about it: Dark vader 
+
+
+Q8:
+Favorite colour:
+A: Black : Dark Vader 
+A: Blood: False Hydra 
+A: Green: GSH 
+A: The smell of sky: Mimic 
+
+
+Q9:
+Describe your shoe size?
+
+A: I have the feet of a child: false Hydra   
+A: Below average: GSH
+A: Above average: Cube 
+A: As big as ur mum lolz: shia LaBeouf
+
+Q10:
+Who is the hottest?
+
+A: Marcus Caparini: False Hydra 
+B: Rohan Shwarma: ShiaLabuff
+C: Sarah Alibhai: GSH
+D: Papa Trent: Dark Vader
+
+
+
+
+
+
+
+
+
+
+
+//Step 1: Declare Monster Variables
+var m1
+var m2
+var m3
+
+
+//Step 2: Questions 1-??
+
+//have to make a button for all the questions which calls a function to all the if statements within the question 
+
+//Question 1: I think we need to use <script> to make the questions 
+
+//This is an example of the Button <button type="button" onclick="alert "Function call here">Click Me!</button>
+
+
+//if example would be:
+// Im not sure if its m1++ OR ++m1 but its either OR.
+
+if (userSelection == 2 && SubmitButton == true/1) {
+    m1++ OR ++m1 
+}
+
+
+
+Step 3: 
+
+// Create a Submit button so we can talley the score and link to diff monster pages
+
+//This is an example of the Button 
+
+<button type="button" onclick="alert "Function call here">Click Me!</button>
+
+
+//Function call here would need to link towards another page based on the highest tallied monster variable.
+
+
+
+
+btn">
+Step 4:
+
+
+//Make the different monster pages.
+
+//After we make a singular monster page we can copy paste and change each page to fit the different monsters.
+
+
+
+
+if(m1  ) {
+
+
+
+  }
+}

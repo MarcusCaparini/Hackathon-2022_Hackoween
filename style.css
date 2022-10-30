@@ -1,0 +1,30 @@
+html, body {
+  height: 75%;
+  width: 100%;
+}
+
+
+.main{
+
+background-color: #000000
+
+border-radius 98px  
+}
+
+body{
+
+background-color: #EB6123
+}
+
+
+*
+{
+
+  font-family: 'red serifs', serif; 
+
+  box-sizing: border-box;
+  padding: 3px 5px;
+  text-decoration: none;
+  border-radius: 40px;
+  scroll-behavior: smooth;
+}
